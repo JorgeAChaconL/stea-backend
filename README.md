@@ -378,7 +378,7 @@ Diseñar:
 ```
 
 ---
-| -------------- | ------------------ | ---------------------- |
 | Dirección      | Visión total       | Acceso completo        |
+| -------------- | ------------------ | ---------------------- |
 | Administración | Control financiero | Pagos, reportes        |
 
